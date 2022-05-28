@@ -34,5 +34,5 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # Bing
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,cn.bing.net
