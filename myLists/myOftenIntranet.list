@@ -36,3 +36,6 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 # Bing
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
+
+# Clash后台管理地址
+DOMAIN-SUFFIX,clash.razord.top
