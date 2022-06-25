@@ -73,7 +73,3 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
-
-# Google DNS IP
-IP-CIDR,8.8.8.0/8,no-resolve
-IP-CIDR,8.8.4.0/4,no-resolve
