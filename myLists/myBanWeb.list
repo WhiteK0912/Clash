@@ -1,5 +1,5 @@
 # 禁止访问网站
-# DOMAIN-SUFFIX,bilibili.com
-# DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,huya.com
