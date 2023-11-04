@@ -11,6 +11,11 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,time.windows.com
 
+# Bing
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,cn.bing.net
+ DOMAIN-SUFFIX,msn.cn
+
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,xn--fiqs8s
