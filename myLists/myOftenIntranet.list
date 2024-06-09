@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,time.windows.com
 
 # Bing
 DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,msn.cn
 
